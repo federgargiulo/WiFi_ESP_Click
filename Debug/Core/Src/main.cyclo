@@ -1,0 +1,11 @@
+../Core/Src/main.c:85:5:main	14
+../Core/Src/main.c:205:6:SystemClock_Config	3
+../Core/Src/main.c:252:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:285:13:MX_USART6_UART_Init	2
+../Core/Src/main.c:318:13:MX_GPIO_Init	1
+../Core/Src/main.c:361:6:MQTT_Connect	1
+../Core/Src/main.c:399:6:MQTT_Publish	1
+../Core/Src/main.c:438:6:send_at_command	1
+../Core/Src/main.c:449:6:HAL_UART_RxCpltCallback	3
+../Core/Src/main.c:460:6:WiFi_Init	1
+../Core/Src/main.c:476:6:Error_Handler	1
